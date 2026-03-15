@@ -10,7 +10,7 @@ This project delivers a deep-dive analysis into the profitability and product po
 * **$5K Profit Recovery Opportunity** identified by optimizing discount tiers for underperforming segments.
 * **25% Catalog Inactivity:** Identified 5 out of 20 products with zero sales volume, representing trapped capital.
 
-![Executive Overview](Assets/01_Executive%20Overview.png)
+![Executive Overview](./Assets/01_Executive_Overview.png)
 
 ---
 
@@ -40,18 +40,18 @@ I followed an end-to-end analytics workflow to transform raw PostgreSQL data int
 ### 1. Portfolio Health & Segmentation
 By segmenting the portfolio, we discovered that demand is heavily concentrated in "Star" products. However, the **Portfolio Strategy** view revealed that 25% of the catalog is inactive.
 
-![Portfolio Strategy](Assets/04_Portfolio%20Strategy.png)
+![Portfolio Strategy](./Assets/04_Portfolio_Strategy.png)
 
 ### 2. Discount Sensitivity (The "Tipping Point")
 The scatter chart identifies exactly where discounts stop driving healthy volume and start destroying net profit. 
 * **Insight:** For "Weak" products, a 20% reduction in discount depth would recover **$5,000 in lost margin** without impacting overall demand significantly.
 
-![Discount Sensitivity](Assets/03_Discount%20Sensitivity%20Analysis.png)
+![Discount Sensitivity](./Assets/03_Discount_Sensitivity_Analysis.png)
 
 ### 3. Product Performance Deep-Dive
 A detailed breakdown of every SKU to allow category managers to see exactly which colors, sizes, and cities are driving the most value.
 
-![Product Performance](Assets/02_Product%20Performance.png)
+![Product Performance](./Assets/02_Product_Performance.png)
 
 ---
 
